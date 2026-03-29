@@ -66,7 +66,7 @@ Ensures outcome is achieved
 
 This is not a workflow tool. This is a full execution system.
 
-📌 [INSERT IMAGE HERE — SYSTEM ARCHITECTURE DIAGRAM]
+![System Architecture](./assets/system architecture diagram.png)
 
 (Use the Napkin AI diagram you’ll generate)
 
