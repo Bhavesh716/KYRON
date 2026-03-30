@@ -2,13 +2,12 @@
   <img src="./assets/logo2.png" width="500"/>
 </p>
 
+<br/>
 <p align="center">
-Execution is the biggest bottleneck in organizations.<br/>
+Execution is the biggest bottleneck in organizations today.<br/>
 KYRON removes that bottleneck by taking ownership of execution itself.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 </p>
-
----
-
 <br/>
 
 ## Overview
@@ -163,7 +162,7 @@ Work moves from being managed to being executed.
 
 ## Downloads
 
-You can download the web and mobile app directly from our official webpage :
+You can download the desktop and mobile app directly from our official webpage :
 
 
 
