@@ -1,8 +1,6 @@
-<h1 align="center">
-  <img src="./assets/logo.png" width="750"/>
-</h1>
-
-<p align="center"><b>Intelligent Execution Engine</b></p>
+<p align="center">
+  <img src="./assets/logo2.png" width="500"/>
+</p>
 
 <p align="center">
 Execution is the biggest bottleneck in organizations.<br/>
@@ -10,6 +8,8 @@ KYRON removes that bottleneck by taking ownership of execution itself.
 </p>
 
 ---
+
+<br/>
 
 ## Overview
 
