@@ -66,7 +66,9 @@ Instead of managing work, it ensures work gets done.
 
 ## Execution Flow
 
-Goal → Plan → Assign → Execute → Monitor → Fix → Complete
+<p align="center">
+  <img src="./assets/flow_dark_bg.png" width="750"/>
+</p>
 
 <br/>
 
