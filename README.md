@@ -1,6 +1,8 @@
-<h1 align="center">
+<p align="center">
   <img src="./assets/logo.png" width="750"/>
-</h1>
+</p>
+
+---
 
 <p align="center"><b>Autonomous Execution Engine</b></p>
 
