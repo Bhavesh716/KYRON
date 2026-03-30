@@ -136,7 +136,7 @@ These agents work together to enable continuous execution.
 ## Use cases
 
 <p align="center">
-  <img src="./assets/use_cases_dark_bg.png" width="750"/>
+  <img src="./assets/use_cases_dark_bg.png"/>
 </p>
 
 <br/>
