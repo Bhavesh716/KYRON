@@ -1,4 +1,7 @@
-<h1 align="center">KYRON</h1>
+<p align="center">
+  <img src="./assets/logo.png" width="750"/>
+</p>
+
 <p align="center"><b>Autonomous Execution Engine</b></p>
 
 <p align="center">
@@ -6,9 +9,6 @@ Execution is the biggest bottleneck in organizations.<br/>
 KYRON removes that bottleneck by taking ownership of execution itself.
 </p>
 
-<p align="center">
-  <img src="./assets/logo.png" width="750"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen" />
