@@ -2,7 +2,7 @@
   <img src="./assets/logo.png" width="750"/>
 </h1>
 
-<p align="center"><b>Autonomous Execution Engine</b></p>
+<p align="center"><b>Intelligent Execution Engine</b></p>
 
 <p align="center">
 Execution is the biggest bottleneck in organizations.<br/>
