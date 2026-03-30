@@ -1,8 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="./assets/logo.png" width="750"/>
-</p>
-
----
+</h1>
 
 <p align="center"><b>Autonomous Execution Engine</b></p>
 
@@ -38,7 +36,7 @@ Given a goal, KYRON:
 - self-corrects  
 - ensures completion  
 
----
+<br/>
 
 ## The Problem
 
@@ -54,7 +52,7 @@ Execution today is:
 - fragmented  
 - dependent on human coordination  
 
----
+<br/>
 
 ## The Solution
 
@@ -64,13 +62,13 @@ KYRON introduces a new approach:
 
 Instead of managing work, it ensures work gets done.
 
----
+<br/>
 
 ## Execution Flow
 
 Goal → Plan → Assign → Execute → Monitor → Fix → Complete
 
----
+<br/>
 
 ## How It Works
 
@@ -95,7 +93,7 @@ Goal → Plan → Assign → Execute → Monitor → Fix → Complete
 7. Completion  
    Ensures goal is achieved
 
----
+<br/>
 
 ## System Architecture
 
@@ -115,7 +113,7 @@ Goal → Plan → Assign → Execute → Monitor → Fix → Complete
 
 </details>
 
----
+<br/>
 
 ## Agent System
 
@@ -130,7 +128,7 @@ KYRON operates through specialized agents:
 
 These agents work together to enable continuous execution.
 
----
+<br/>
 
 ## Use cases
 
@@ -138,7 +136,7 @@ These agents work together to enable continuous execution.
   <img src="./assets/use_cases.png" width="750"/>
 </p>
 
----
+<br/>
 
 ## Why KYRON
 
@@ -152,7 +150,7 @@ These agents work together to enable continuous execution.
 
 Others help you work. KYRON gets the work done.
 
----
+<br/>
 
 ## Impact
 
@@ -165,7 +163,7 @@ KYRON enables organizations to:
 
 Work moves from being managed to being executed.
 
----
+<br/>
 
 ## Downloads
 
@@ -173,7 +171,7 @@ You can download the web and mobile app directly from our official webpage :
 
 
 
----
+<br/>
 
 ## Authentication
 
@@ -181,14 +179,14 @@ You can download the web and mobile app directly from our official webpage :
 - Role-based access  
 - Secure API handling  
 
----
+<br/>
 
 ## Vision
 
 Work should not be managed.  
 Work should execute itself.
 
----
+<br/>
 
 ## Contact
 
