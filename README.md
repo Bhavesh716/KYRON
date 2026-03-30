@@ -8,6 +8,7 @@
 Execution is the biggest bottleneck in organizations.<br/>
 KYRON removes that bottleneck by taking ownership of execution itself.
 </p>
+
 ---
 
 ## Overview
