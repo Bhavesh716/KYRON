@@ -98,18 +98,19 @@ Goal → Plan → Assign → Execute → Monitor → Fix → Complete
 ## System Architecture
 
 <p align="center">
-  <img src="./assets/system_architecture_diagram.png" width="750"/>
+  <img src="./assets/system_architecture_dark_bg.png" width="750"/>
 </p>
 
 <details>
 <summary>View Architecture Layers</summary>
 
-- API Gateway — authentication and routing  
-- Input Layer — goal ingestion  
-- Orchestration Engine — execution control  
-- Agent System — planning, assignment, monitoring  
-- Execution Layer — humans and external tools  
-- State and Memory Layer — tasks, logs, company data  
+- API Gateway — authentication, validation, routing
+- Input Layer — goal ingestion (user / email / file)
+- Orchestration Engine — core decision-making and execution control
+- Agent System — planning, assignment, communication, monitoring, recovery
+- Execution Layer — employees and external tools (Email, WhatsApp, Slack)
+- State & Memory Layer — task state, company data, logs, audit trail
+- Feedback & Re-evaluation Loop — continuous monitoring, follow-ups, failure detection, dynamic re-planning
 
 </details>
 
